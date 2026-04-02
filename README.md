@@ -52,11 +52,15 @@ React • Next.js • Redux
 
 ### Blockchain
 
-<p>
-<img src="https://skillicons.dev/icons?i=ethereum"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=solidity" height="50"/>
+
+<img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/eth.png" height="50"/>
+
 </p>
 
-Solidity • Hardhat • Ethers.js • OpenZeppelin • ERC-3643 • NFTs
+Solidity • Hardhat • Ethers.js • OpenZeppelin • ERC-3643 • NFTs • Smart Contracts
 
 ### Databases
 
