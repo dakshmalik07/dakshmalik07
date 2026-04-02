@@ -14,7 +14,7 @@
 # 🧑‍💻 About Me
 
 • 🎓 B.Tech Computer Science Graduate (2024)  
-• 💼 Software Engineering Intern at Antier Solutions  
+• 💼 Software Engineering at Antier Solutions  
 • 🔗 Blockchain Developer (Solidity, Hardhat, OpenZeppelin)  
 • ⚙️ Backend Developer (Java, Spring Boot, Node.js)  
 • ☁️ Experience with AWS & CI/CD pipelines  
