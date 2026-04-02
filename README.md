@@ -24,7 +24,7 @@ Strong interest in:
 
 # 💼 Experience
 
-## Software Engineering Intern — Antier Solutions
+## Software Engineering — Antier Solutions
 
 Worked on blockchain infrastructure and NFT systems.
 
