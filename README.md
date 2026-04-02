@@ -1,358 +1,346 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:0ea5e9,80:38bdf8,100:7dd3fc&text=Daksh%20Malik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Blockchain%20Developer%20|%20AI%20Systems%20Engineer&descAlignY=55"/>
+# 👋 Hi, I'm Daksh Malik
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2800&color=38BDF8&center=true&vCenter=true&width=950&lines=Backend+Engineer+building+scalable+systems;Blockchain+Infrastructure+Developer;Kafka+%7C+Redis+%7C+Microservices+Architecture;LLM+Applications+%7C+RAG+Systems;Focused+on+Performance+and+System+Design"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Blockchain+Engineer;Smart+Contract+Developer;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Backend+Engineer;Blockchain+Developer;Microservices+Engineer;LLM+Application+Developer;Distributed+Systems+Enthusiast" />
 
 <br>
 
 <a href="mailto:dakshmalik437@gmail.com">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dakshmalik07">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
+# 🚀 Professional Summary
 # 🚀 About Me
 
-Software Engineer specializing in **backend engineering, blockchain infrastructure, distributed systems, and AI applications**. Currently working as an **Assistant Software Engineer at Antier Solutions**, developing real-world asset tokenization platforms and backend orchestration services.
+Software Engineer with experience in **backend development, blockchain engineering, and full-stack applications**. Experienced in building scalable systems, smart contracts, and cloud-integrated applications.
+Backend & Blockchain Engineer with experience building **microservices, distributed systems, smart contract infrastructure, and AI-powered applications**. Currently working at **Antier Solutions** developing real-world asset tokenization platforms and blockchain orchestration services.
 
-I focus on building:
+Strong interest in:
+I enjoy solving complex engineering problems involving:
 
-• Scalable backend systems  
+• Backend Architecture  
+• Distributed Systems  
+• Blockchain Infrastructure  
+• Microservices  
+• System Design  
+• Distributed systems  
+• Backend architecture  
 • Blockchain infrastructure  
-• Event-driven microservices  
-• AI powered applications  
-• High performance APIs  
+• Event driven systems  
+• AI + LLM applications  
 
 ---
 
-# 🎯 Engineering Domains
+# 💼 Experience
+# 🎯 What I Work On
 
-### Backend Engineering
-Node.js microservices, Spring Boot APIs, authentication systems, caching, distributed communication
+🔗 **Blockchain Infrastructure**
+ERC-3643 tokenization, NFT systems, multisig orchestration, blockchain event processors
 
-### Blockchain Engineering
-ERC-3643 tokenization, NFT infrastructure, smart contracts, blockchain event processing
+## Software Engineering — Antier Solutions
+⚙️ **Backend Engineering**
+Node.js microservices, Spring Boot APIs, Kafka messaging, gRPC services
 
-### Distributed Systems
-Kafka messaging, gRPC communication, event driven architecture, transaction workflows
+Worked on blockchain infrastructure and NFT systems.
+🤖 **AI Applications**
+RAG systems, LLM agents, vector search pipelines, AI learning platforms
 
-### AI Engineering
-RAG systems, LLM agents, vector search, AI learning platforms
+Key work:
+☁️ **Cloud & DevOps**
+AWS infrastructure, Docker containerization, CI/CD automation
 
-### Cloud Engineering
-AWS infrastructure, Docker deployment, CI/CD automation
+• NFT lazy minting implementation  
+• Royalty distribution logic  
+• Smart contract testing using Hardhat  
+• Proxy upgradeable contracts  
+• Integration testing for contract ecosystems  
+🏗️ **System Architecture**
+Microservices, event-driven architecture, caching strategies
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,cpp,solidity" />
+
+## Backend
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,solidity" />
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+## Backend & Frameworks
+
+## Frontend
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,react" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+Node.js • Express • Spring Boot • JPA • Hibernate
+
+## Blockchain
+
+<img src="https://skillicons.dev/icons?i=ethereum" />
+Ethereum • Solidity • Hardhat • Ethers.js • OpenZeppelin
+
+Hardhat • Ethers.js • OpenZeppelin • Smart Contracts
+## Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,dynamodb" />
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kafka,jenkins,githubactions" />
+
+AWS • Docker • Kafka • Redis • CI/CD
+
+## AI / LLM
+
+RAG • LLM Agents • Vector DB • Embeddings • Ollama • Gemini
 
 ---
 
 # 💼 Professional Experience
 
-# 🏢 Assistant Software Engineer  
-## Antier Solutions  
+# 🏢 Assistant Software Engineer — Antier Solutions  
 Aug 2024 – Present
 
-Working on blockchain infrastructure and backend systems for tokenization platforms.
+Worked on blockchain infrastructure and backend systems for tokenization platforms.
 
-### Key Engineering Contributions
+Key Contributions:
 
-### Blockchain Infrastructure
-
-• Implemented backend for ERC-3643 real world asset tokenization platform  
-• Built NFT minting workflows and asset pool systems  
-• Developed blockchain orchestration microservices  
-• Built multisig transaction lifecycle services  
-
-### Backend Engineering
-
-• Engineered Node.js REST APIs with OAuth2 + JWT authentication  
-• Services handling 500+ authentication requests daily  
-• Improved login reliability by 20%
-
-### Distributed Systems
-
-• Designed Kafka based messaging architecture  
-• Built gRPC services for inter service communication  
-• Reduced service communication latency by 40%
-
-### Performance Engineering
-
-• Implemented Redis caching reducing API latency by 30%
-• Built idempotent persistence logic
-• Designed retry fault handling transaction services
-
-### DevOps Engineering
-
-• Containerized services using Docker
-• Reduced deployment time by 40%
-• Built reliable CI/CD pipelines
-
-### Platform Engineering
-
-• Built blockchain event processing service
-• Multi chain transaction ingestion
-• Transaction lifecycle tracking
-• On chain/off chain state synchronization
+• Built ERC-3643 real world asset tokenization backend  
+• Developed NFT minting and asset pool workflows  
+• Designed Node.js microservices for blockchain orchestration  
+• Implemented Kafka messaging between services  
+• Built gRPC services for inter-service communication  
+• Engineered JWT + OAuth authentication APIs  
+• Implemented Redis caching improving API latency by 30%  
+• Containerized applications using Docker reducing deployment time by 40%  
+• Built blockchain event processing pipeline with retry fault handling  
 
 ---
 
-# 🏢 Software Engineer Intern  
-## Avisoft  
+# 🏢 Software Engineer Intern — Avisoft  
 Jan 2024 – Jun 2024
 
-### Key Contributions
-
-• Developed 10+ Spring Boot REST APIs
-• Reduced manual operations by 30%
-• Built onboarding backend workflows
-• Provisioned AWS EC2 & RDS infrastructure
-• Maintained 99.99% uptime services
-• Built scalable backend services for multiple clients
+• Built 10+ Spring Boot REST APIs  
+• Automated workflows reducing manual work by 30%  
+• Deployed applications on AWS EC2 & RDS  
+• Built scalable backend services for multiple clients  
 
 ---
 
 # 🔥 Featured Projects
 
-# MultiLingo — AI Language Learning Platform
+# Bloggers Platform
+Full stack blogging platform with authentication and state management.
+# MultiLingo – AI Language Learning Platform
 
-Full stack multilingual AI learning system powered by LLMs.
+AI powered multilingual learning platform.
 
-### Engineering Work
-
-• Built translation learning system using Gemini
-• Developed voice first learning workflows
-• Implemented SpeechRecognition pipelines
-• Built pronunciation analysis engine
-• Designed AI feedback generation system
-
-### Key Features
-
-• AI guided language improvement
-• Voice practice interaction
-• Real time pronunciation feedback
-• Multi language learning flows
-
-### Stack
+Tech:
 
 React  
+Redux  
+Appwrite  
 Node.js  
-Express  
-Gemini LLM  
+Gemini  
 Speech APIs  
+
+Features:
+
+• Authentication system  
+• Post creation & management  
+• State management with Redux  
+• Environment based config  
+
+Repo:
+https://github.com/dakshmalik07/Bloggers
+• AI translation learning system  
+• Voice practice system  
+• Pronunciation feedback engine  
+• AI guided language improvement  
 
 ---
 
-# LLM Buddy — Retrieval AI Assistant
+# Blockchain Vesting Contract
+# LLM Buddy – RAG AI System
 
-LLM powered knowledge assistant improving answer accuracy using RAG.
+Token vesting system for team and advisor allocations.
+LLM powered knowledge assistant.
 
-### Engineering Work
+Features:
+Tech:
 
-• Built RAG document retrieval pipeline
-• Implemented chunking strategies
-• Integrated vector embeddings search
-• Built AI agent execution workflow
-• Implemented Plan → Execute → Reflect reasoning pattern
-
-### Key Features
-
-• Document grounded responses
-• AI reasoning workflows
-• Dynamic tool routing
-• Parallel execution pipelines
-
-### Stack
-
+• Time based vesting  
+• Role based permissions  
+• Secure token release logic  
+• Hardhat test coverage  
 TypeScript  
 React  
 Node.js  
 Ollama  
 Redis  
 
----
+Tech:
+Features:
 
-# Blockchain Event Processing Service
-
-Production blockchain ingestion microservice.
-
-### Engineering Work
-
-• Multi chain transaction ingestion
-• Idempotent storage architecture
-• Retry execution strategies
-• Transaction lifecycle tracking
-• Blockchain state synchronization
-
-### Stack
-
-Node.js  
-Kafka  
-Redis  
-Microservices  
-
----
-
-# 🛠 Technical Skills
-
-# Languages
-
-<div>
-
-Java • C++ • JavaScript • TypeScript • Solidity • Python
-
-</div>
-
-# Backend
-
-Node.js  
-Express.js  
-Spring Boot  
-JPA  
-Hibernate  
-
-# Blockchain
-
-Ethereum  
 Solidity  
 Hardhat  
+Chai  
 Ethers.js  
-OpenZeppelin  
-
-# Databases
-
-MongoDB  
-MySQL  
-Redis  
-DynamoDB  
-
-# Cloud & DevOps
-
-AWS  
-Docker  
-Kafka  
-Jenkins  
-GitHub Actions  
-
-# AI / LLM
-
-RAG  
-LLM Agents  
-Vector Search  
-Embeddings  
-Prompt Engineering  
-Ollama  
-
-# Architecture
-
-Microservices  
-Event Driven Systems  
-JWT Authentication  
-Payment Integration  
-ORM Systems  
+• RAG document retrieval  
+• Vector embeddings search  
+• AI agent workflow  
+• Plan → Execute → Reflect reasoning  
 
 ---
 
-# 📊 GitHub Analytics
+# Hard Asset NFT Factory
+# Blockchain Event Processor
+
+NFT factory architecture with yield distribution.
+Production blockchain event ingestion service.
+
+Features:
+
+• Factory pattern  
+• Upgradeable proxy contracts  
+• NFT minting architecture  
+• Pool interaction logic  
+• Multi chain ingestion  
+• Idempotent persistence  
+• Retry fault handling  
+• Transaction lifecycle tracking  
+
+Tech:
+
+Solidity  
+Hardhat  
+Proxy Pattern  
+Node.js  
+Kafka  
+Redis  
+Microservices  
+
+---
+
+@@ -141,80 +191,70 @@ Proxy Pattern
+
+# 🏆 Achievements
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dakshmalik07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshmalik07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dakshmalik07&theme=tokyonight&no-frame=true&row=1"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
+🏅 Solved 400+ DSA problems  
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshmalik07&theme=tokyo-night&hide_border=true"/>
+🏅 4th place — College Codeathon 2022  
+
+</div>
+🏅 Production blockchain engineering experience  
+
+---
+
+# 🐍 Contribution Snake Animation
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dakshmalik07/dakshmalik07/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshmalik07&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
-
-• Solved **400+ DSA problems**
-
-• Secured **4th position — Codeathon 2022**
-
-• Production blockchain engineering experience
-
-• Backend microservices engineering experience
-
----
-
+# 🎯 Current Learning Focus
 # 🎯 Current Focus
 
 Currently improving knowledge in:
+Currently improving:
 
 • Advanced Node.js internals  
 • Kubernetes  
-• Distributed transactions  
-• System design  
-• Redis optimization  
-• Performance engineering  
+• Microservices architecture  
+• Redis  
+• System design patterns  
+• System Design  
+• Distributed systems  
+• Redis performance tuning  
 
 ---
 
+# ⚡ Engineering Strengths
 # 💡 Engineering Strengths
 
-✔ Backend Architecture  
-✔ Distributed Systems  
-✔ Blockchain Infrastructure  
+✔ Strong backend fundamentals  
+✔ Production blockchain exposure  
+✔ Smart contract testing experience  
+✔ Full stack development  
+✔ API design experience  
+✔ CI/CD exposure  
+✔ Backend architecture  
+✔ Blockchain systems  
+✔ Event driven design  
 ✔ Microservices  
-✔ Event Driven Design  
-✔ API Engineering  
-✔ Performance Optimization  
+✔ API design  
+✔ Performance optimization  
 
 ---
 
-# 🎓 Education
+# 📌 Current Goals (2026)
+# 📍 Profile
 
-Jaypee University of Information Technology
-
-Bachelor of Technology — Computer Science
-
-CGPA: 7.7 / 10
-
-2020 – 2024
-
----
-
-# 📫 Contact
-
-Email  
-dakshmalik437@gmail.com  
-
-GitHub  
-github.com/dakshmalik07  
-
-Location  
 Meerut, Uttar Pradesh, India  
 
+• Transition into strong backend engineering roles  
+• Master distributed systems  
+• Improve low level design skills  
+• Contribute to advanced backend projects  
+B.Tech Computer Science  
+Jaypee University of Information Technology  
+
 ---
 
+# 📫 Connect With Me
+
 <div align="center">
+Email:
+dakshmalik437@gmail.com
 
-### Engineering Philosophy
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dakshmalik07)
 
 </div>
+GitHub:
+https://github.com/dakshmalik07
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:38bdf8,50:0ea5e9,100:020617&section=footer"/>
+### ⭐ If you like my work, consider starring repositories
+### ⚡ "First solve the problem. Then write the code."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=130&section=footer"/>
 
 </div>
