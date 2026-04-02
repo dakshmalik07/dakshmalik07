@@ -1,159 +1,220 @@
 <div align="center">
 
 # 👋 Hi, I'm Daksh Malik
-### Software Engineer | Backend Developer | Blockchain Engineer
 
-💻 Full Stack Developer specializing in scalable backend systems, smart contracts, and cloud infrastructure.
-
-🚀 Passionate about building high-performance applications and solving complex engineering problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Blockchain+Engineer;Smart+Contract+Developer;Full+Stack+Developer" />
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+# 🚀 Professional Summary
 
-• 🎓 B.Tech Computer Science Graduate (2024)  
-• 💼 Software Engineering at Antier Solutions  
-• 🔗 Blockchain Developer (Solidity, Hardhat, OpenZeppelin)  
-• ⚙️ Backend Developer (Java, Spring Boot, Node.js)  
-• ☁️ Experience with AWS & CI/CD pipelines  
-• 🧠 Strong interest in system design & distributed systems  
+Software Engineer with experience in **backend development, blockchain engineering, and full-stack applications**. Experienced in building scalable systems, smart contracts, and cloud-integrated applications.
+
+Strong interest in:
+
+• Backend Architecture  
+• Distributed Systems  
+• Blockchain Infrastructure  
+• Microservices  
+• System Design  
+
+---
+
+# 💼 Experience
+
+## Software Engineering Intern — Antier Solutions
+
+Worked on blockchain infrastructure and NFT systems.
+
+Key work:
+
+• NFT lazy minting implementation  
+• Royalty distribution logic  
+• Smart contract testing using Hardhat  
+• Proxy upgradeable contracts  
+• Integration testing for contract ecosystems  
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## Languages
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=java,js,cpp,solidity" />
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+## Backend
 
-### Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+## Blockchain
+
+<img src="https://skillicons.dev/icons?i=ethereum" />
+
+Hardhat • Ethers.js • OpenZeppelin • Smart Contracts
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git" />
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 Featured Projects
 
-## 📝 Bloggers Platform
-Full-stack blogging platform with authentication and state management.
+# Bloggers Platform
+Full stack blogging platform with authentication and state management.
 
-**Tech Used:**
-React, Appwrite, Redux, Node.js
+Tech:
 
-👉 https://github.com/dakshmalik07/Bloggers
-
----
-
-## 🔗 Blockchain Vesting System
-Smart contract system managing token vesting schedules.
-
-**Tech Used:**
-Solidity, Hardhat, OpenZeppelin
+React  
+Redux  
+Appwrite  
+Node.js  
 
 Features:
 
-• Role based access  
+• Authentication system  
+• Post creation & management  
+• State management with Redux  
+• Environment based config  
+
+Repo:
+https://github.com/dakshmalik07/Bloggers
+
+---
+
+# Blockchain Vesting Contract
+
+Token vesting system for team and advisor allocations.
+
+Features:
+
 • Time based vesting  
-• Secure token distribution  
-
----
-
-## 🏗 Hard Asset NFT System
-Factory based NFT minting and yield distribution architecture.
-
-Features:
-
-• Proxy pattern  
-• Upgradeable contracts  
-• Integration testing  
+• Role based permissions  
+• Secure token release logic  
+• Hardhat test coverage  
 
 Tech:
 
 Solidity  
 Hardhat  
+Chai  
 Ethers.js  
 
 ---
 
-# 📊 GitHub Stats
+# Hard Asset NFT Factory
+
+NFT factory architecture with yield distribution.
+
+Features:
+
+• Factory pattern  
+• Upgradeable proxy contracts  
+• NFT minting architecture  
+• Pool interaction logic  
+
+Tech:
+
+Solidity  
+Hardhat  
+Proxy Pattern  
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshmalik07&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dakshmalik07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshmalik07&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshmalik07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievements
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dakshmalik07&theme=tokyo-night)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dakshmalik07&theme=tokyonight&no-frame=true&row=1"/>
+
+</div>
 
 ---
 
-# 🎯 Current Focus
+# 📈 Contribution Activity
 
-Currently improving skills in:
+<div align="center">
 
-• System Design  
-• Microservices  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshmalik07&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dakshmalik07/dakshmalik07/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Learning Focus
+
+Currently improving knowledge in:
+
+• Advanced Node.js internals  
 • Kubernetes  
-• Advanced Node.js  
-• Distributed Systems  
+• Microservices architecture  
+• Redis  
+• System design patterns  
 
 ---
 
-# 📫 Contact Me
-
-📧 Email: your-email@gmail.com  
-
-💼 LinkedIn:
-(Add link)
-
-💻 GitHub:
-https://github.com/dakshmalik07
-
----
-
-# ⚡ What Makes Me Different
+# ⚡ Engineering Strengths
 
 ✔ Strong backend fundamentals  
-✔ Production blockchain experience  
-✔ Smart contract security focus  
-✔ Full stack capability  
-✔ Fast learner  
+✔ Production blockchain exposure  
+✔ Smart contract testing experience  
+✔ Full stack development  
+✔ API design experience  
+✔ CI/CD exposure  
 
 ---
 
-# ⭐ Profile Views
+# 📌 Current Goals (2026)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dakshmalik07&color=blue)
+• Transition into strong backend engineering roles  
+• Master distributed systems  
+• Improve low level design skills  
+• Contribute to advanced backend projects  
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dakshmalik07)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐ If you like my work, consider starring repositories
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
